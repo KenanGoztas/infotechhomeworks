@@ -1,0 +1,13 @@
+
+f	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÙş²
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©À›º
+T
+java:S1854"9Remove this useless assignment to local variable "input".(Úî¿òøÿÿÿÿ
+E
+java:S1481"*Remove this unused "input" local variable.(Úî¿òøÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ÈÕé×
+S
+java:S6353*"=Use concise character class syntax '\\D' instead of '[^0-9]'.(ÏÙş²
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Óßüš
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ïšÛ‘úÿÿÿÿ
+Q	java:S1253"<This block of commented-out lines of code should be removed.(¤Ğ
