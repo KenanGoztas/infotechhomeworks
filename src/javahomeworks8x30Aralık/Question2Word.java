@@ -5,13 +5,17 @@ import java.util.*;
 public class Question2Word {
     public static void main(String[] args) {
 //        1)Elemanlari A, C, E, ve F olan bir String ArrayList olusturup ekrana yazdiriniz.
-        List <String> arr1= new ArrayList<>() ;//soru: elemanları arrayliste en başta topluca (array gibi) ekleme, tanımlama imkanı var mı?
+        List <String> arr1= new ArrayList<>() ;
+        //soru: elemanları arrayliste en başta topluca (array gibi) ekleme, tanımlama imkanı var mı?
+        //cevap Arrays.asList()
+        List<String> arr2= new ArrayList<>(Arrays.asList("a","c", "e", "f"));
         arr1.add("A");
         arr1.add("C");
         arr1.add("E");
         arr1.add("F");
 
         System.out.println(arr1);
+        System.out.println(arr2);
 
         // 2)indexsiz add() methodunu kullanarak, B’yi ekleyiniz.
 //        index’li add() methodunu kullanarak, L’yi 1 numarali index’e ekleyiniz.
