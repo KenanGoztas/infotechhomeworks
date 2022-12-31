@@ -21,6 +21,18 @@ Q
 !src/javahomeworks5/Question6.java,d/6/d65db8c48b4d000cd25ed79853ee7d7b72b6980a
 Q
 !src/javahomeworks5/Question7.java,c/3/c329a02d0bcf718c8beb1408bbab247d4f47a839
+W
+'src/javahomeworks4/StringtoInteger.java,b/9/b9456161b0ccfb4f98bad4d9ebcd1a28b6984e40
+S
+#src/javahomeworks4/Soru5tekrar.java,b/b/bbb0c64e8bb3d286b8cbb6412d31cfcd2c53de80
+P
+ src/javahomeworks6/TestMain.java,5/6/56897697b80914042e4ccdaba16a8e8f62a0e938
+e
+5src/javahomeworks7x27Aralik/Aralık27StatikArray.java,a/1/a1db4c8edf93de2e012825af9c38958d1be507f0
+N
+src/javahomeworks6/Hayvan.java,a/8/a807dd033645b5bb64e11b7abdb3b74e9f5b5f65
+P
+ src/javahomeworks6/Mainmain.java,5/a/5a29ba21ec7dabeffb187abfe0bc505b674cae21
 M
 src/javahomeworks4/Soru1.java,6/d/6db33e6a137e28c6ca4ee4b1a46e602a90028fe5
 M
@@ -29,11 +41,7 @@ M
 src/javahomeworks4/Soru3.java,4/c/4c850460ca76296753da0bc38da07ca774a9a70b
 M
 src/javahomeworks4/Soru4.java,8/c/8cadfc9bbebed743c6b45cc86022151e5af086a6
-W
-'src/javahomeworks4/StringtoInteger.java,b/9/b9456161b0ccfb4f98bad4d9ebcd1a28b6984e40
-S
-#src/javahomeworks4/Soru5tekrar.java,b/b/bbb0c64e8bb3d286b8cbb6412d31cfcd2c53de80
 M
 src/javahomeworks4/Soru5.java,f/7/f737bbd226498538841be9c30597a53d3376a2fa
-P
- src/javahomeworks6/TestMain.java,5/6/56897697b80914042e4ccdaba16a8e8f62a0e938
+Z
+*src/javahomeworks7x27Aralik/Question3.java,9/0/90961c00b83f2885db01c9cc262421b49b92fbdb

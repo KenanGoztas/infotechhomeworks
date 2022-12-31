@@ -5,16 +5,22 @@ import java.util.Scanner;
 
 public class Questionx4Birinci {
     public static void main(String[] args) {
+        Questionx4Ikinci a= new Questionx4Ikinci();
+        a.number();
+        System.out.println(Arrays.toString(a.number()));
         System.out.println("bir alışveriş sitesinden5 adet ürünü ücretsiz satın alabilme hakkı kazandınız!!");
         System.out.println("lütfen ürünleri seçiniz!");
         Scanner input = new Scanner(System.in);
-        String ürün1 = input.nextLine();
-        String ürün2 = input.nextLine();
-        String ürün3 = input.nextLine();
-        String ürün4 = input.nextLine();
-        String ürün5 = input.nextLine();
+//        String ürün1 = input.nextLine();
+//        String ürün2 = input.nextLine();
+//        String ürün3 = input.nextLine();
+//        String ürün4 = input.nextLine();
+//        String ürün5 = input.nextLine();
+//
         Questionx4Ikinci product1 = new Questionx4Ikinci();
-        String[] sürpriz = product1.hediye(ürün1, ürün2, ürün3, ürün4, ürün5);
+
+        String[] sürpriz = product1.hediye(input.nextLine(), input.nextLine(), input.nextLine(), input.nextLine(), input.nextLine());
+
         System.out.println(sürpriz[0]);
         System.out.println(sürpriz[1]);
         System.out.println(sürpriz[2]);
