@@ -21,8 +21,6 @@ Q
 !src/javahomeworks5/Question6.java,d/6/d65db8c48b4d000cd25ed79853ee7d7b72b6980a
 Q
 !src/javahomeworks5/Question7.java,c/3/c329a02d0bcf718c8beb1408bbab247d4f47a839
-W
-'src/javahomeworks4/StringtoInteger.java,b/9/b9456161b0ccfb4f98bad4d9ebcd1a28b6984e40
 S
 #src/javahomeworks4/Soru5tekrar.java,b/b/bbb0c64e8bb3d286b8cbb6412d31cfcd2c53de80
 P
@@ -45,3 +43,17 @@ M
 src/javahomeworks4/Soru5.java,f/7/f737bbd226498538841be9c30597a53d3376a2fa
 Z
 *src/javahomeworks7x27Aralik/Question3.java,9/0/90961c00b83f2885db01c9cc262421b49b92fbdb
+b
+2src/javahomeworks7x27Aralik/Questionx4Birinci.java,6/5/6578e1d6f3e666f0c3eda91cbfb89a60309b9569
+a
+1src/javahomeworks7x27Aralik/Questionx4Ikinci.java,3/6/367f6e9900655b4a6530ce9b6b00db6232ea27f0
+j
+:src/javahomeworks8x30Aralık/Aralık30xCokBoyutluDizi.java,1/0/10f13ecc9b582ae767b329cb9822fa34c3e12e2c
+_
+/src/javahomeworks8x30Aralık/Question3Word.java,4/b/4b2d9a9b250d886eca1a56c619926ab0cc958aff
+_
+/src/javahomeworks8x30Aralık/Question2Word.java,b/d/bdc9c62df21d4b319a7908d7ba777d1e9482789e
+_
+/src/javahomeworks8x30Aralık/Question1Word.java,0/e/0ec65365663e565fdfc7a416ddbaf99b3b6d7468
+W
+'src/javahomeworks4/StringtoInteger.java,b/9/b9456161b0ccfb4f98bad4d9ebcd1a28b6984e40
