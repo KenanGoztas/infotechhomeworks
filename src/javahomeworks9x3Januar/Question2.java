@@ -14,6 +14,7 @@ public class Question2 {
         System.out.println("doğum tarihini giriniz");
         Scanner input = new Scanner(System.in);
         LocalDate localDate1 = LocalDate.of(input.nextInt(), input.nextInt(), input.nextInt());
+
         //LocalDate localDate2 = LocalDate.now();
        //a
         yasHesapla(localDate1);
@@ -26,8 +27,10 @@ public class Question2 {
     }
 
     private String gun(LocalDate localDate) {
+
         Period period = Period.between(localDate, LocalDate.now());
         String s = String.valueOf(period.getDays());
+
         int i= (period.getDays() + ((period.getYears()*12)+period.getMonths())*30);
         System.out.println("toplam " + i + " gün yaşamışsınız");
         return s;
@@ -36,12 +39,14 @@ public class Question2 {
     private static void ay(LocalDate localDate) {
         Period period = Period.between(localDate, LocalDate.now());
         System.out.println(period.getMonths());
+
         int i= (period.getYears()*12)+period.getMonths();
         System.out.println("toplam "+ i + " ay yaşamışsınız");
     }
 
-    private static void yasHesapla(LocalDate localDate) {
-        Period period = Period.between(localDate, LocalDate.now());
+    private static void yasHesapla(LocalDate l) {
+
+        Period period = Period.between(l, LocalDate.now());
         System.out.println("girilen tarihie göre yaşı : " + period);
     }
 }

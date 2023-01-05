@@ -1,5 +1,6 @@
 package javahomeworks9x3Januar;
 
+import java.time.Duration;
 import java.util.Scanner;
 
 public class Question4 {
@@ -31,6 +32,8 @@ public static void main(String[] args) {
     kk.insert(9," ");
     kk.insert(14, " ");
     System.out.println(kk);
+
+//    Duration.between(start, end);
 
 
 
