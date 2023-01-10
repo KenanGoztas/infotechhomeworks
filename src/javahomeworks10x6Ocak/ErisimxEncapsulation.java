@@ -1,9 +1,6 @@
 package javahomeworks10x6Ocak;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class ErisimxEncapsulation {
     public static void main(String[] args) {
@@ -19,7 +16,8 @@ public class ErisimxEncapsulation {
         Car car8= new Car("Audi", "A3", 2022, "04TT44" );
         Car car9= new Car("Ford", "Focus", 2014, "33DD66" );
         Car car10= new Car("Fiat", "Egea", 2010, "06AB24" );
-        List<Car> autoList=new LinkedList<>();
+
+        Set<Car> autoList=new HashSet<>();
         autoList.add(car1);
         autoList.add(car2);
         autoList.add(car3);
@@ -30,15 +28,17 @@ public class ErisimxEncapsulation {
         autoList.add(car8);
         autoList.add(car9);
         autoList.add(car10);
+
 //for each ile araba plakalarını yazdırdım.
-        for (Car c:autoList) {
+        for (Car c : autoList) {
             System.out.print(c.getLicensePlate() + " ");
-            System.out.println(c.toString());
+           System.out.println(c.toString());
         }
 // nesneleri yazdırdım.
         System.out.println("\n"+ autoList);
+
 //çalıntı araçlar plakalarını ayrı bir linkedlistte topladım.
-        List<String> stolenListPlate= new LinkedList<>();
+        Set<String> stolenListPlate= new HashSet<>();
         stolenListPlate.add("06AB24");
         stolenListPlate.add("01BC33");
         stolenListPlate.add("44UC88");
@@ -48,18 +48,19 @@ public class ErisimxEncapsulation {
         stolenListPlate.add(newPlate);
 
 //çalıntı araçları da bir linkedlistte toplayabiliriz
-        List<Car> stolenListCars= new LinkedList<>();
+        Set<Car> stolenListCars= new HashSet<>();
         stolenListCars.add(car7);
         stolenListCars.add(car8);
         stolenListCars.add(car8);
         stolenListCars.add(car9);
 
  //stolenCars sınıfından nesne ile çalınan arabaları ve sorumlu polisi ekledim.
-        StolenCars stolenCars= new StolenCars(stolenListPlate, "ali");
-        System.out.println(stolenCars.getPoliceOfficer());
-        System.out.println("Çalınan plakalar :" + stolenCars.getStolenPlate());
+ //       StolenCars stolenCars= new StolenCars(stolenListPlate, "ali");
+ //       System.out.println(stolenCars.getPoliceOfficer());
+  //      System.out.println("Çalınan plakalar :" + stolenCars.getStolenPlate());
 
 //for each ile çalıntı plaka ile araç plakasını karşılaştırdım.
+
         System.out.println("\nÇalıntı araçlar 1");
        for (Car sc: autoList) {
            for(String str: stolenListPlate)
