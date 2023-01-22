@@ -12,7 +12,7 @@ public class Personel {
         return maas;
     }
     int zamYapYüzdeli(int zam){
-        maas= maas+ (maas*zam/100);
+        maas= maas + (maas*zam/100);
         return maas;
     }
     static void zamYapGenel(int zam){
