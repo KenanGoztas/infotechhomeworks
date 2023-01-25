@@ -25,10 +25,18 @@ public class TestMain {
         System.out.println(personel1.isim);
         System.out.println(memur2.isim);
         System.out.println(memur3.isim);
-        Personel personel2 = Personel.nesne();
-        personel2.maasVer();
-        Amir amir3= (Amir) Personel.nesne();
-        amir3.supergetIsım();
+
+//        Personel personel2 = Personel.nesne();
+//        personel2.maasVer();
+//        Amir amir3= (Amir) Personel.nesne();
+//        amir3.supergetIsım();
+
+        muhasebeci.maasHesapla(memur2);
+        muhasebeci.maasHesapla(amir2);
+        Personel []personels= {amir2,memur2};
+        muhasebeci.maasHesapla(new Memur("k"));
+        muhasebeci.maasHesapla(new Amir("a"));
+        Personel p=amir1;
 
 
     }
