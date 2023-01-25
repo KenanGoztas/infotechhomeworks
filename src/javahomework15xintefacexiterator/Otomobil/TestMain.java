@@ -1,6 +1,4 @@
-package javahomework15xintefacexiterator;
-
-import java.util.Random;
+package javahomework15xintefacexiterator.Otomobil;
 
 public class TestMain {
     public static void main(String[] args) {

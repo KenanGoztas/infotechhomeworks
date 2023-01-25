@@ -1,0 +1,24 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜…å¾
+9
+java:S3010"Remove this assignment of "x".(ÜÃ™çüÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "c3".(¬‘Øö
+L
+java:S1854"6Remove this useless assignment to local variable "c2".(äâ»Â
+L
+java:S1854"6Remove this useless assignment to local variable "c1".(øŠë
+K
+java:S2209"5Change this instance-reference to a static reference.(ş ûÕ
+=
+java:S1481"'Remove this unused "c1" local variable.(øŠë
+=
+java:S1481"'Remove this unused "c2" local variable.(äâ»Â
+=
+java:S1481"'Remove this unused "c3" local variable.(¬‘Øö
+Q
+java:S2209""5Change this instance-reference to a static reference.(¦¥µ8ÈèÿÄÕ0
+Q
+java:S2209#"5Change this instance-reference to a static reference.(ÖÉÁ!8­€ÅÕ0
+F
+java:S30107"$Remove this assignment of "collage".(èÉœøşÿÿÿÿ8ĞË‹ÅÕ0

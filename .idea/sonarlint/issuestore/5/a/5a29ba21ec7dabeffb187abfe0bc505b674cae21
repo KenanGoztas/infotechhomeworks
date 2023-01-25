@@ -1,0 +1,7 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù’£Öÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±øÉ½
+R
+java:S2209!"5Change this instance-reference to a static reference.(ÁÙ¾¦8º±ÝÿÔ0
+R
+java:S2209""5Change this instance-reference to a static reference.(—Ï§è8º±ÝÿÔ0

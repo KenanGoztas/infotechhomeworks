@@ -1,0 +1,11 @@
+
+v
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "arr".(¡½¹ýÿÿÿÿÿ
+}
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "arnumber".(Ü™É·8¾†ŒúÕ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜…å¾
+m	java:S116"QRename this field "Ã¼rÃ¼n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“°³¿8œ’šúÕ0
+E
+java:S1197"*Move the array designators [] to the type.(¡½¹ýÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(”¦¦ú
+V	java:S125"<This block of commented-out lines of code should be removed.(”ß±Øþÿÿÿÿ

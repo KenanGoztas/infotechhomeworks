@@ -1,0 +1,29 @@
+
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¨øŒÿÿÿÿÿ
+x
+java:S1488:"]Immediately return this expression instead of assigning it to the temporary variable "sayi4".(¿™Ë¯øÿÿÿÿ
+t
+java:S1488@"YImmediately return this expression instead of assigning it to the temporary variable "c".(¾¡¨ıÿÿÿÿ
+w
+java:S1488L"ZImmediately return this expression instead of assigning it to the temporary variable "s2".(­¥Á8ÒÎ„Ø0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å²Â¦üÿÿÿÿ
+T
+java:S12263">Introduce a new variable instead of reusing the parameter "i".(¤ı²…
+U
+java:S1854$":Remove this useless assignment to local variable "sayÅŸ6".(¼¨øŒÿÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "sayi3".(æğüõùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ğÆ’ã
+E
+java:S1481"*Remove this unused "sayi3" local variable.(æğüõùÿÿÿÿ
+F
+java:S1481$"+Remove this unused "sayÅŸ6" local variable.(¼¨øŒÿÿÿÿÿ
+K
+java:S18543"5Remove this useless assignment to local variable "i".(¤ı²…
+b	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹šéW
+c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù­¸ã
+h	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÕâÏùÿÿÿÿ
+N
+java:S1854D"8Remove this useless assignment to local variable "str2".(²Ê„Š
+?
+java:S1481D")Remove this unused "str2" local variable.(²Ê„Š

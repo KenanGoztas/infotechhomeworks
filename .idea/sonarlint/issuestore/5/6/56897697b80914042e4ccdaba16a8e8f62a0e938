@@ -1,0 +1,30 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal "ryzen" 4 times.(•‘’¹ûÿÿÿÿ
+^
+java:S1192"HDefine a constant instead of duplicating this literal "windows" 4 times.(ò…ó°
+\
+java:S1192"FDefine a constant instead of duplicating this literal "intel" 3 times.(ò…ó°
+a
+java:S1192"FDefine a constant instead of duplicating this literal "linux" 4 times.(•‘’¹ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±øÉ½
+X
+java:S1854"=Remove this useless assignment to local variable "computer5".(Öõæıùÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "computer4".(•‘’¹ûÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "computer3".(ôé„ûÿÿÿÿ
+R
+java:S1854"=Remove this useless assignment to local variable "computer2".(âÀÓ%
+S
+java:S1854"=Remove this useless assignment to local variable "computer1".(ò…ó°
+D
+java:S1481".Remove this unused "computer1" local variable.(ò…ó°
+C
+java:S1481".Remove this unused "computer2" local variable.(âÀÓ%
+I
+java:S1481".Remove this unused "computer3" local variable.(ôé„ûÿÿÿÿ
+I
+java:S1481".Remove this unused "computer4" local variable.(•‘’¹ûÿÿÿÿ
+I
+java:S1481".Remove this unused "computer5" local variable.(Öõæıùÿÿÿÿ

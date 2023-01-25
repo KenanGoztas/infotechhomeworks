@@ -1,0 +1,20 @@
+
+c
+java:S1192"MDefine a constant instead of duplicating this literal "Africa/Cairo" 7 times.(åûÑ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å²Â¦üÿÿÿÿ
+P
+java:S1854#":Remove this useless assignment to local variable "period".(ÌßñÛ
+P
+java:S2209"5Change this instance-reference to a static reference.(ŸÃ®­üÿÿÿÿ
+P
+java:S2209 "5Change this instance-reference to a static reference.(şÈÒ‹ıÿÿÿÿ
+A
+java:S1481#"+Remove this unused "period" local variable.(ÌßñÛ
+H
+java:S2201)"-The return value of "plusHours" must be used.(²Üö³øÿÿÿÿ
+Q	java:S125-"<This block of commented-out lines of code should be removed.(˜ßóà
+P
+java:S22093"5Change this instance-reference to a static reference.(ŸÃ®­üÿÿÿÿ
+P
+java:S22094"5Change this instance-reference to a static reference.(şÈÒ‹ıÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.(÷Ë³†ùÿÿÿÿ

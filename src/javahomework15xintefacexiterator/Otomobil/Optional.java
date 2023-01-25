@@ -1,4 +1,4 @@
-package javahomework15xintefacexiterator;
+package javahomework15xintefacexiterator.Otomobil;
 
 public interface Optional {
     void sunroof();

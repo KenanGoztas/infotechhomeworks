@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³¤…º
+N
+java:S1854"8Remove this useless assignment to local variable "str3".(Ž‡½Ä
+O
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(´¾Ž¾
+?
+java:S1481")Remove this unused "str3" local variable.(Ž‡½Ä

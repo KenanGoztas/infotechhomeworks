@@ -1,0 +1,13 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İÍˆøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚²‡æûÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "multiArray2".(éÒ¿™øÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "multiArray1".(¬–¹Šÿÿÿÿÿ
+K
+java:S1481"0Remove this unused "multiArray1" local variable.(¬–¹Šÿÿÿÿÿ
+K
+java:S1481"0Remove this unused "multiArray2" local variable.(éÒ¿™øÿÿÿÿ
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8´£¤©Ö0

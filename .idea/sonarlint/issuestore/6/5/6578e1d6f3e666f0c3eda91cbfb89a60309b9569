@@ -1,0 +1,9 @@
+
+`
+java:S1192!"KDefine a constant instead of duplicating this literal "televizyon" 4 times.(‰ìž
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£áÌ‡
+R
+java:S4973%"<Strings and Boxed types should be compared using "equals()".(Æüø
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜…å¾
+Q	java:S125"<This block of commented-out lines of code should be removed.(ùÇòÙ
+V	java:S125-"<This block of commented-out lines of code should be removed.(ß˜Åüÿÿÿÿ
